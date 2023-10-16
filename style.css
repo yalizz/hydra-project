@@ -1,0 +1,127 @@
+body {
+  background-color: #302c42;
+  color: #fff;
+  font-family: Montserrat;
+  margin: 0;
+}
+
+.main {
+  /* margin-bottom: -100px;
+  margin-top: -100px; */
+  color: white;
+}
+
+.paragraf__introd {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 94px;
+  padding-left: 84px;
+}
+
+.paragraf__tohydra {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  padding-left: 84px;
+  margin-top: 10px;
+}
+
+.main__text-arrow {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.paragraf__tohydra {
+  color: #fff;
+  margin-right: 10px;
+}
+
+.arrow {
+  margin-bottom: 20%;
+  margin-left: 30%;
+}
+
+.paragra__lorem1 {
+  margin-right: 10px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.image-container {
+  position: relative;
+}
+
+.paragra__lorem1 {
+  margin-left: 111px;
+  margin-top: -90px;
+}
+
+.main__photo {
+  margin-left: 72px;
+  margin-top: 100px;
+  margin-bottom: 92px;
+}
+
+.about__text {
+  display: flex;
+  flex-direction: column;
+  /* margin-left: 30%; */
+  margin-top: 10  0px;
+}
+
+.paragraf__about {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 151px;
+  margin-left: 107px;
+  margin-right: 579px;
+}
+
+.paragraf__hydravr {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  margin-left: 107px;
+  margin-bottom: 42px;
+  margin-right: 523px;
+}
+
+.paragraf__lorem2 {
+  margin-right: 10px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-right: 84px;
+  margin-left: 108px;
+  margin-bottom: 42px;
+}
+
+.paragraf__button {
+  color: #fff;
+  border-radius: 40px;
+  width: 214px;
+  height: 48px;
+  margin-left: 108px;
+  margin-bottom: 179px;
+  margin-right: 500px;
+  border-color: #fff;
+  border: 2px solid #fff;
+  background: none;
+}
+
+.paragraf__button:hover {
+  background: linear-gradient(90deg, #8176af 0%, #c0b7e8 100%);
+  color: #343045;
+  border: none;
+}
+
